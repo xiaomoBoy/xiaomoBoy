@@ -7,6 +7,7 @@
 ## 学习与内容
 
 - **[Pi Coding Agent 中文学习蓝皮书](https://github.com/xiaomoBoy/pi-bluebook)**：面向中文初学者的非官方实战路线。从安装和第一个真实任务开始，逐步走到会话、上下文、扩展与长期工作流。[在线阅读 →](https://pi.xiaomovps.com)
+- **[AI Spark 知识库](https://github.com/aisparkedu/knowledge-base)**：我参与建设的团队知识库，汇集 AI 入门、工具、编程智能体与内容创作资料。
 - **[小墨同学 · Pi 实操笔记](https://xiaomovps.com)**：我的实践笔记、代表内容和合作入口。
 
 ## 开源工具
